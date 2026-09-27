@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Product,Category,City,Quantity,Sales,Profit,Month,Month_Name,Profit_Margin
+1001,2026-05-01,Laptop,Electronics,Pune,2,120000,18000,5,May,15.0
+1002,2026-07-01,Mobile,Electronics,Mumbai,3,90000,13500,7,July,15.0
+1003,2026-10-01,Office Chair,Furniture,Nashik,5,50000,7500,10,October,15.0
+1004,2026-12-01,Notebook,Stationery,Aurangabad,20,10000,2000,12,December,20.0
+1005,2026-01-15,Headphones,Electronics,Pune,4,16000,3200,1,January,20.0
+1006,2026-01-18,Table,Furniture,Mumbai,2,30000,4500,1,January,15.0
+1007,2026-01-20,Printer,Electronics,Nashik,2,36000,5400,1,January,15.0
+1008,2026-01-22,Pen Set,Stationery,Pune,25,7500,1500,1,January,20.0
+1009,2026-01-25,Monitor,Electronics,Aurangabad,3,45000,6750,1,January,15.0
+1010,2026-01-28,Bookshelf,Furniture,Mumbai,2,24000,3600,1,January,15.0
+1011,2026-02-02,Keyboard,Electronics,Pune,6,12000,2400,2,February,20.0
+1012,2026-05-02,Mouse,Electronics,Nashik,10,10000,2000,5,May,20.0
+1013,2026-08-02,Desk,Furniture,Aurangabad,3,45000,6750,8,August,15.0
+1014,2026-11-02,Notebook,Stationery,Mumbai,30,15000,3000,11,November,20.0
+1015,2026-02-14,Smartwatch,Electronics,Pune,4,32000,6400,2,February,20.0
+1016,2026-02-17,Cabinet,Furniture,Nashik,2,28000,4200,2,February,15.0
+1017,2026-02-20,Tablet,Electronics,Mumbai,3,75000,11250,2,February,15.0
+1018,2026-02-23,Marker Set,Stationery,Aurangabad,15,6000,1200,2,February,20.0
+1019,2026-02-25,Webcam,Electronics,Pune,5,25000,5000,2,February,20.0
+1020,2026-02-27,Sofa,Furniture,Mumbai,1,35000,5250,2,February,15.0
+1021,2026-02-03,Mobile,Electronics,Nashik,2,60000,9000,2,February,15.0
+1022,2026-05-03,Printer,Electronics,Pune,3,54000,8100,5,May,15.0
+1023,2026-08-03,Office Chair,Furniture,Aurangabad,4,40000,6000,8,August,15.0
+1024,2026-11-03,File Folder,Stationery,Mumbai,40,8000,1600,11,November,20.0
+1025,2026-03-14,Laptop,Electronics,Nashik,1,60000,9000,3,March,15.0
+1026,2026-03-17,Study Table,Furniture,Pune,3,36000,5400,3,March,15.0
+1027,2026-03-20,Headphones,Electronics,Aurangabad,6,24000,4800,3,March,20.0
+1028,2026-03-23,Pen Set,Stationery,Nashik,35,10500,2100,3,March,20.0
+1029,2026-03-26,Monitor,Electronics,Mumbai,2,30000,4500,3,March,15.0
+1030,2026-03-29,Bookshelf,Furniture,Pune,3,36000,5400,3,March,15.0
