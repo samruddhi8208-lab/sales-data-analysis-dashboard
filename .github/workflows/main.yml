@@ -27,3 +27,11 @@ jobs:
       - name: Run Sales Analysis
         run: |
           python analysis.py
+
+      - name: Upload Analysis Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: sales-analysis-results
+          path: |
+            charts/
+            output/
